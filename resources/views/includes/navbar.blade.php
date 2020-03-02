@@ -13,7 +13,7 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/') }}">
-                         Muhammed Essa 
+                         Karim Shlal 
                     </a>
                 </div>
 
