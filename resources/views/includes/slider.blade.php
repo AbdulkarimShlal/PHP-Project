@@ -23,16 +23,13 @@
       <img src="/img/11.png" data-color="lightblue" alt="First Image"  >
       <div class="carousel-caption mycolor4">
         <h2 class="myfonty">
- This is test 1
-        
         </h2>
       </div>
     </div>
     <div class="item">
       <img src="/img/12.png" data-color="firebrick" alt="Second Image" >
       <div class="carousel-caption mycolor4">
-        <h2 class="myfonty">
- This is test 2        
+        <h2 class="myfonty">      
         </h2>
       </div>
     </div>
@@ -40,7 +37,7 @@
       <img src="/img/13.png" data-color="violet" alt="Third Image">
       <div class="carousel-caption mycolor4">
         <h2 class="myfonty">
- This is test 3        </h2>
+        </h2>
       </div>
     </div>
     
@@ -86,6 +83,6 @@ $('.carousel').carousel({
   pause: "false"
 });
 </script>
- 
+
 
 
