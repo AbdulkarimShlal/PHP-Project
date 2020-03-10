@@ -7,7 +7,7 @@
             <div class="content">
                 <div class="title m-b-md">
                 <div class="container">
-                  Karim Shlal
+                Created by: Karim Shlal
                 </div></div>
             </div>
                @endsection

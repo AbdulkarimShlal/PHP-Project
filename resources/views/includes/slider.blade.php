@@ -23,16 +23,13 @@
       <img src="/img/11.png" data-color="lightblue" alt="First Image"  >
       <div class="carousel-caption mycolor4">
         <h2 class="myfonty">
- This is test 1
-        
         </h2>
       </div>
     </div>
     <div class="item">
       <img src="/img/12.png" data-color="firebrick" alt="Second Image" >
       <div class="carousel-caption mycolor4">
-        <h2 class="myfonty">
- This is test 2        
+        <h2 class="myfonty">      
         </h2>
       </div>
     </div>
@@ -40,7 +37,7 @@
       <img src="/img/13.png" data-color="violet" alt="Third Image">
       <div class="carousel-caption mycolor4">
         <h2 class="myfonty">
- This is test 3        </h2>
+        </h2>
       </div>
     </div>
     
@@ -51,6 +48,36 @@
  
 </div>
 
+<link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<div class="container">
+      <a href="#">
+        <i class="fab fa-facebook-f"></i>
+        <span>Facebook</span>
+      </a>
+      <a href="#">
+        <i class="fab fa-twitter"></i>
+        <span>Twitter</span>
+      </a>
+      <a href="#">
+        <i class="fab fa-instagram"></i>
+        <span>Instagram</span>
+      </a>
+      <a href="#">
+        <i class="fab fa-linkedin-in"></i>
+        <span>LinkedIn</span>
+      </a>
+      <a href="#">
+        <i class="fab fa-github"></i>
+        <span>Github</span>
+      </a>
+      <a href="#">
+        <i class="fab fa-youtube"></i>
+        <span>YouTube</span>
+      </a>
+    </div>
+
+    
 <style>
 
 .carousel-caption h1, .carousel-caption h2, .carousel-caption h3, .carousel-caption h4, .carousel-caption h5, .carousel-caption h6{
@@ -79,6 +106,11 @@
 }
 
 
+
+
+
+
+
 </style>
 <script>
 $('.carousel').carousel({
@@ -86,6 +118,5 @@ $('.carousel').carousel({
   pause: "false"
 });
 </script>
- 
 
 
